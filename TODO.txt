@@ -1,0 +1,19 @@
+Your task is to create a webpage and a backend service with which you can:
+    - see all the presentations with their data (thumbnail, title, creator, creation date)
+    - you can search by title (a really dumb search is OK)
+    - order by creation date
+    - the data should be served by a backend service. It's not enough to only use the json file.
+    - the frontend should be a separate static site
+
+There's a json file attached. Use it as a data source in the backend service.
+
+The output:
+    - github/bitbucket repo(s)
+    - a few words about how you'd make it even more awesome if you were given more time.
+
+Extra points:
+    - proper commit history (vs. a single commit when you're done)
+    - the service and the webpage deployed somewhere (e.g. Heroku)
+
+Misc:
+    - We will use the code to get a gut feeling about your level, skills. Use this opportunity to show you're committed to writing clean, well structured, modular, extendable, well-tested code. You can also help us get a glimplse on what you care about. Is it UI/UX? Is it super-scalable backend code? Maybe both?
